@@ -15,7 +15,6 @@ import Messaging6687Navigator from '../features/Messaging6687/navigator';
 import CalendarView6686Navigator from '../features/CalendarView6686/navigator';
 import EmailAuth6685Navigator from '../features/EmailAuth6685/navigator';
 import BlankScreen46684Navigator from '../features/BlankScreen46684/navigator';
-import MessengerNavigator from '../features/Messenger/navigator';
 import CalendarNavigator from '../features/Calendar/navigator';
 import EmailAuthNavigator from '../features/EmailAuth/navigator';
 
@@ -38,7 +37,6 @@ Messaging6687: { screen: Messaging6687Navigator },
 CalendarView6686: { screen: CalendarView6686Navigator },
 EmailAuth6685: { screen: EmailAuth6685Navigator },
 BlankScreen46684: { screen: BlankScreen46684Navigator },
-Messenger: { screen: MessengerNavigator },
 Calendar: { screen: CalendarNavigator },
 EmailAuth: { screen: EmailAuthNavigator },
 
